@@ -34,5 +34,6 @@ Repository for P5 project
 'git commit -m "initial commit".'
 
 9. Create your first project files (usually in VS Code).
+- tmontague_sql.py
 
 10. As you work, git add / commit / push to GitHub.
