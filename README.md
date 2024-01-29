@@ -23,8 +23,16 @@ Repository for P5 project
 
 6. Install your dependencies into your .venv and freeze your requirements.txt.
 'python -m pip install logging'
+ - verify if sqlite3 is installed in your Python in terminal using: 'python -c "import sqlite3; print(sqlite3.sqlite_version)'
+ - if not, use  'pip install sqlite3' or 'pip install pysqlite3' to install
 
-Record the commands used in your README.md.
-Git add and commit with a useful message (e.g. "initial commit") and push to GitHub.
-Create your first project files (usually in VS Code). 
-As you work, git add / commit / push to GitHub.
+7. Record the commands used in your README.md.
+ - [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file)
+
+8. Git add and commit with a useful message (e.g. "initial commit") and push to GitHub.
+'git add .'
+'git commit -m "initial commit".'
+
+9. Create your first project files (usually in VS Code).
+
+10. As you work, git add / commit / push to GitHub.
