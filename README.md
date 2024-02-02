@@ -23,7 +23,7 @@ Repository for P5 project
 
 6. Install your dependencies into your .venv and freeze your requirements.txt.
 'python -m pip install logging'
- - verify if sqlite3 is installed in your Python in terminal using: 'python -c "import sqlite3; print(sqlite3.sqlite_version)'
+ - verify if sqlite3 is installed in your Python in terminal using: 'python -c "import sqlite3"; print(sqlite3.sqlite_version)'
  - if not, use  'pip install sqlite3' or 'pip install pysqlite3' to install
 
 7. Record the commands used in your README.md.
@@ -51,4 +51,7 @@ Repository for P5 project
 5. Checked .gitignore to ensure that .venv will not be pushed to GitHub
 
 
+## CC5.3 Plan the Project / Make Data Files
+1. Create new data folder in project repository
 
+2. Create 2 data csv files with provided data
