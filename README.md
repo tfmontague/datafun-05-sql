@@ -1,7 +1,7 @@
 # datafun-05-sql
 Repository for P5 project
 
-## Project Workflow
+## CC5.1 Start a new Project Assignment
 1. Create a GitHub project repository with a default README.md.
  - [Quickstart for Repositories - GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
 
@@ -36,4 +36,19 @@ Repository for P5 project
 9. Create your first project files (usually in VS Code).
 - tmontague_sql.py
 
-10. As you work, git add / commit / push to GitHub.
+## CC5.2 Use SQL with Python Assignment
+1. Ensure CC5.1 steps are complete
+
+2. Activate a local virtual environment in .venv.
+'.venv\Scripts\activate'
+
+3. Install pandas in .venv
+'pip install pandas'
+
+4. Run pip freeze and redirect the results (>) into requirements.txt
+'pip freeze > requirements.txt'
+
+5. Checked .gitignore to ensure that .venv will not be pushed to GitHub
+
+
+
