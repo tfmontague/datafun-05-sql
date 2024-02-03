@@ -1,5 +1,5 @@
 # datafun-05-sql
-Repository for P5 project
+Repository for P5 project practice
 
 ## CC5.1 Start a new Project Assignment
 1. Create a GitHub project repository with a default README.md.
